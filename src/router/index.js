@@ -5,8 +5,6 @@ import WareHouse from '../views/WareHouse.vue'
 import Skills from '../views/Skills.vue'
 import MyLife from '../views/MyLife.vue'
 
-
-
 Vue.use(VueRouter)
 
 const routes = [
